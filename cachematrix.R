@@ -1,5 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+# Theses two functions help the user cache computations that would 
+#normally take more time than ususal to calculate. This usually works
+# with very long vectors, so these two functions can cache the value 
+# of the matrix then later solve it.
 
 ## Write a short comment describing this function
 
