@@ -20,7 +20,8 @@ list(set=set, get=get,setmatrix=setmatrix,getmatrix=getmatrix)
 }
 
 
-## Write a short comment describing this function
+## What this function does is that it solves the matrix from the 
+# previous function. 
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
