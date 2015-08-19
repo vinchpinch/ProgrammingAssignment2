@@ -3,7 +3,8 @@
 # with very long vectors, so these two functions can cache the value 
 # of the matrix then later solve it.
 
-## Write a short comment describing this function
+# The purpose of this function is to create a matrix that sets the value
+# of the matrix which later gets the value of the matrix. 
 
 makeCacheMatrix <- function(x = matrix()) {
 
