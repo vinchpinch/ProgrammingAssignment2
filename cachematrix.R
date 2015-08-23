@@ -21,7 +21,7 @@ list(set=set, get=get,setmatrix=setmatrix,getmatrix=getmatrix)
   
 ## What this function does is that it solves the matrix from the 
 # previous function. If the result is already in the previous function.
-# then it will take it from the cache
+# then it will take it from the cache.
  
 cacheSolve <- function(x = matrix(), ...) {  # setting function
   m <- x$getmatrix()                         # gets the cache 
